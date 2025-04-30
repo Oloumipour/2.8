@@ -1,0 +1,8 @@
+C:\Users\Leila\Documents\PROGE\PROGE\obj\Debug\PROGE.csproj.AssemblyReference.cache
+C:\Users\Leila\Documents\PROGE\PROGE\obj\Debug\PROGE.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leila\Documents\PROGE\PROGE\obj\Debug\PROGE.csproj.CoreCompileInputs.cache
+C:\Users\Leila\Documents\PROGE\PROGE\bin\Debug\PROGE.exe.config
+C:\Users\Leila\Documents\PROGE\PROGE\bin\Debug\PROGE.exe
+C:\Users\Leila\Documents\PROGE\PROGE\bin\Debug\PROGE.pdb
+C:\Users\Leila\Documents\PROGE\PROGE\obj\Debug\PROGE.exe
+C:\Users\Leila\Documents\PROGE\PROGE\obj\Debug\PROGE.pdb
